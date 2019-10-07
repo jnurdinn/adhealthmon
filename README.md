@@ -1,5 +1,5 @@
 # adhealthmon
-Active Directory Domain Controller Health Monitoring using Powershell Script
+Active Directory Domain Controller Health Monitoring using Powershell Script. It can be used on general monitoring cases. In my case, I integrated this script to run inside an Zabbix Agent Server.
 
 ## Usage :
 
